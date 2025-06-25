@@ -2,7 +2,7 @@
 👋I’m **Mahmoud Yassine Boumaiza**, a Computer systems Engineering student at ISI Mahdia.
 💻 Passionate about **Software Engineering**, I specialize in:
 
-- **Web Development** using the **MERN Stack (MongoDB, Express.js, React, Node.js)**
+- **Web Development** using **MERN Stack and Other technologies(MongoDB, SQL Express, React, Node.js, ASP.NET Core, Spring Boot, etc...)**
 - **Mobile Development** with **Flutter**, creating cross-platform, user-friendly applications
 - **IoT Solutions powered** by advanced **wireless technologies** like Wi-Fi, Bluetooth, Zigbee, and LoRaWAN
 - **Real-Time Communication Protocols and APIs** such as MQTT, WebSockets, and RESTful/GraphQL APIs
