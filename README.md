@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋I’m **Mahmoud Yassine Boumaiza**, a Computer systems Engineering student at ISI Mahdia.
+👋I’m **Mahmoud Yassine Boumaiza**, a Computer systems Engineering student.
 💻 Passionate about **Software Engineering**, I specialize in:
 
 - **Web Development** using **MERN Stack and Other technologies(MongoDB, SQL Express, React, Node.js, ASP.NET Core, Spring Boot, etc...)**
