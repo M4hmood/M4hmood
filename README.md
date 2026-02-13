@@ -3,7 +3,7 @@
 💻 Passionate about **Software Engineering**, I specialize in:
 
 - **Web Development** using **MERN Stack and Other technologies(MongoDB, SQL Express, React, Node.js, ASP.NET Core, Spring Boot, etc...)**
-- **Mobile Development** with **Flutter**, creating cross-platform, user-friendly applications
+- **Mobile Development** with **Flutter & React Native** , creating cross-platform, user-friendly applications
 - **IoT Solutions powered** by advanced **wireless technologies** like Wi-Fi, Bluetooth, Zigbee, and LoRaWAN
 - **Real-Time Communication Protocols and APIs** such as MQTT, WebSockets, and RESTful/GraphQL APIs
 - **Networking and Cybersecurity** to ensure secure and scalable systems
